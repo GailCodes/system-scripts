@@ -17,4 +17,7 @@ case "$1" in
         amixer -D pulse sset Master 5%-
         notify_volume
         ;;
+    mute)
+        amixer sset Master toggle
+        ;;
 esac
