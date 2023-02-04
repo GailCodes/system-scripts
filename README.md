@@ -16,7 +16,17 @@ Dependencies
 
 Usage
 ```
-.volumeControl.sh up (turns volume up)
-.volumeControl.sh down (turns volume down)
-.volumeControl.sh mute (toggles volume mute)
+volumeControl.sh up (turns volume up)
+volumeControl.sh down (turns volume down)
+volumeControl.sh mute (toggles volume mute)
+```
+### [Brightness](https://github.com/JamieBurridge/system-scripts/blob/main/brightness/brightnessControl.sh)
+Dependencies
+- brightnessctl
+- dunst
+
+Usage
+```
+brightnessControll up (turns brightness up)
+brightnessControll down (turns brightness down)
 ```
