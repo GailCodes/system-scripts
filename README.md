@@ -27,6 +27,6 @@ Dependencies
 
 Usage
 ```
-brightnessControll up (turns brightness up)
-brightnessControll down (turns brightness down)
+brightnessControll.sh up (turns brightness up)
+brightnessControll.sh down (turns brightness down)
 ```
