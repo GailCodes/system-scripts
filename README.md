@@ -8,6 +8,8 @@ Dependencies
 - dunst
 - xargs
 
+It is best to use **batteryHigh.sh** and **batteryLow.sh** in a crontab file. This will check if your battery is too low or too high in a given timespan.
+
 
 ### [Volume](https://github.com/JamieBurridge/system-scripts/tree/main/volume)
 Dependencies
